@@ -1,2 +1,2 @@
 # web
-This is the first Odin website project.
+This is where my web pages live
